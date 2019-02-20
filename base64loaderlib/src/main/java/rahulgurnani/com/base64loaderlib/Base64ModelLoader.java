@@ -1,4 +1,4 @@
-package judds.github.com.base64modelloaderexample;
+package rahulgurnani.com.base64loaderlib;
 
 import android.support.annotation.Nullable;
 import com.bumptech.glide.load.Options;
